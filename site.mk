@@ -21,7 +21,7 @@ GLUON_FEATURES := \
         web-private-wifi \
         web-wizard \
 	config-mode-domain-select \
-	gluon-mesh-vpn-tunneldigger 
+	mesh-vpn-tunneldigger 
          
 GLUON_SITE_PACKAGES := \
         haveged \
