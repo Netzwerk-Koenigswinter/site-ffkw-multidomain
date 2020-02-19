@@ -20,14 +20,14 @@ GLUON_FEATURES := \
         web-advanced \
         web-private-wifi \
         web-wizard \
-	config-mode-domain-select
+	config-mode-domain-select \
+	gluon-mesh-vpn-tunneldigger 
          
 GLUON_SITE_PACKAGES := \
         haveged \
         iptables \
         iwinfo \
-        gluon-ffkw-files \
-	gluon-mesh-vpn-tunneldigger 
+        gluon-ffkw-files
         
 GLUON_DEPRECATED=full
 GLUON_MULTIDOMAIN=1
